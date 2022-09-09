@@ -1,0 +1,8 @@
+C:\Users\cleyton\Desktop\+Devs2Blu\SolutionProj3\src\Devs2Blu.ProjetosAula3.ProjetoCondicionais\obj\Debug\Devs2Blu.ProjetosAula3.ProjetoCondicionais.csproj.AssemblyReference.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\SolutionProj3\src\Devs2Blu.ProjetosAula3.ProjetoCondicionais\obj\Debug\Devs2Blu.ProjetosAula3.ProjetoCondicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\SolutionProj3\src\Devs2Blu.ProjetosAula3.ProjetoCondicionais\obj\Debug\Devs2Blu.ProjetosAula3.ProjetoCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\cleyton\Desktop\+Devs2Blu\SolutionProj3\src\Devs2Blu.ProjetosAula3.ProjetoCondicionais\bin\Debug\Devs2Blu.ProjetosAula3.ProjetoCondicionais.exe.config
+C:\Users\cleyton\Desktop\+Devs2Blu\SolutionProj3\src\Devs2Blu.ProjetosAula3.ProjetoCondicionais\bin\Debug\Devs2Blu.ProjetosAula3.ProjetoCondicionais.exe
+C:\Users\cleyton\Desktop\+Devs2Blu\SolutionProj3\src\Devs2Blu.ProjetosAula3.ProjetoCondicionais\bin\Debug\Devs2Blu.ProjetosAula3.ProjetoCondicionais.pdb
+C:\Users\cleyton\Desktop\+Devs2Blu\SolutionProj3\src\Devs2Blu.ProjetosAula3.ProjetoCondicionais\obj\Debug\Devs2Blu.ProjetosAula3.ProjetoCondicionais.exe
+C:\Users\cleyton\Desktop\+Devs2Blu\SolutionProj3\src\Devs2Blu.ProjetosAula3.ProjetoCondicionais\obj\Debug\Devs2Blu.ProjetosAula3.ProjetoCondicionais.pdb
