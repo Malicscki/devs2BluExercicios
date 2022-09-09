@@ -11,6 +11,7 @@ namespace Devs2Blu.ProjetosAula3.ProjetoCondicionais
         static void Main(string[] args)
         {
             Exercicio2e2();
+            //teste commit 
         }
         static void Exercicio2e2()
         {
